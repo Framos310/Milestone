@@ -60,7 +60,7 @@ nav ul li a{
     background: url("../img/hero-background.png");
     background-position:center;
     background-size: cover;
-    height: 800px;
+    height: 600px;
     width: 1200px;
 
 }
@@ -125,7 +125,7 @@ h3{
 /***** Contact *****/
 #contact{
     width: 1200px;
-    height: 400px;
+    height: 300px;
     color: white;
     text-align: center;
     clear: both;
